@@ -31,5 +31,5 @@ Use supervised data from [Appento](https://appen.com/) to build a model for an A
 
 # References
 
-Appen Dataset : https://appen.com/
-Udacity DataScience ND : https://www.udacity.com/course/data-scientist-nanodegree--nd025
+ - Appen Dataset : https://appen.com/
+ - Udacity DataScience ND : https://www.udacity.com/course/data-scientist-nanodegree--nd025
