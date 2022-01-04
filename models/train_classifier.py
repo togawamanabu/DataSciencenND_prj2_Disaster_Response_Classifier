@@ -21,6 +21,7 @@ from sklearn.utils import parallel_backend
 import pickle
 
 import nltk
+nltk.download('omw-1.4')
 nltk.download(['punkt', 'wordnet', 'averaged_perceptron_tagger', 'stopwords'])
 
 def load_data(database_filepath):
