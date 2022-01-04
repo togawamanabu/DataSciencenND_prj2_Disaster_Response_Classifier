@@ -1,0 +1,48 @@
+aenum==3.1.0
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///opt/concourse/worker/volumes/live/8fbed55e-0573-4246-7cf9-162067141d5e/volume/cffi_1605538070636/work
+chardet @ file:///opt/concourse/worker/volumes/live/a5a7c56b-23cb-471d-7404-f4130b8aed33/volume/chardet_1605303184529/work
+click==8.0.3
+conda==4.9.2
+conda-package-handling @ file:///opt/concourse/worker/volumes/live/a7e34989-4c54-4cb6-4156-4e58ee270730/volume/conda-package-handling_1603018121300/work
+crc8==0.1.0
+cryptography @ file:///opt/concourse/worker/volumes/live/62f9527a-361c-47e5-5709-227a4a523add/volume/cryptography_1605544472602/work
+Flask==2.0.2
+greenlet==1.1.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+itsdangerous==2.0.1
+Jinja2==3.0.3
+joblib==1.1.0
+MarkupSafe==2.0.1
+nltk==3.6.7
+numpy==1.22.0
+pandas==1.3.5
+passlib==1.7.4
+plotly==5.5.0
+pyarmor==7.0.3
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pylibftdi==0.19.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyserial==3.5
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-can==3.3.4
+python-dateutil==2.8.2
+pytz==2021.3
+pyusb==1.2.1
+PyYAML==5.4.1
+regex==2021.11.10
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+ruamel-yaml==0.15.87
+scikit-learn==1.0.2
+scipy==1.7.3
+six @ file:///opt/concourse/worker/volumes/live/5b31cb27-1e37-4ca5-6e9f-86246eb206d2/volume/six_1605205320872/work
+sklearn==0.0
+SQLAlchemy==1.4.29
+tenacity==8.0.1
+threadpoolctl==3.0.0
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+Werkzeug==2.0.2
+wrapt==1.13.2
